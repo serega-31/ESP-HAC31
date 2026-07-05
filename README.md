@@ -2,8 +2,8 @@
  УСТАНОВКОЙ ПРОШИВКИ "ESP-HAC31" !!!
 
 Научно-исследовательский прототип (Proof of Concept) системы мониторинга и аудита беспроводных сред на базе микроконтроллера ESP8266.
-![фото загрузки прошифки](https://github.com/serega-31/ESP-HAC31/blob/main/IMG_20260705_194510_203.jpg)
-![фото вай фай меню](https://github.com/serega-31/ESP-HAC31/blob/main/Screenshot_20260705_220240_Chrome.jpg)
+![фото загрузки прошивки](https://github.com/serega-31/ESP-HAC31/blob/main/Images/Screenshot_20260705_222355_Chrome.jpg)
+![фото вай фай меню](https://github.com/serega-31/ESP-HAC31/blob/main/Images/Screenshot_20260705_233121_Chrome.jpg)
 
 
 1. Назначение и область применения
