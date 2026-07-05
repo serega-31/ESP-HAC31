@@ -1,4 +1,4 @@
-# ⚡ ESP-HAC31
+# ESP-HAC31
 
 ---
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 📌 1. Назначение и область применения
+## ◆ 1. Назначение и область применения
 
 Настоящее программное обеспечение (прошивка) является объектом академического исследования и разработано в рамках изучения архитектуры микроконтроллеров и анализа защищённости беспроводных протоколов передачи данных.
 
@@ -20,7 +20,7 @@
 
 ---
 
-## ⚙️ 2. Функциональные возможности и соответствие исследовательским задачам
+## ◇ 2. Функциональные возможности и соответствие исследовательским задачам
 
 Программно-аппаратный комплекс реализует исключительно аналитические функции и функции моделирования штатных сетевых процессов для проверки отказоустойчивости оборудования:
 
@@ -41,13 +41,13 @@
 
 ---
 
-## 🧩 3. Аппаратная платформа
+## ○ 3. Аппаратная платформа
 
 Программный комплекс оптимизирован для работы в условиях ограниченных ресурсов встраиваемых систем. Вся логика низкоуровневой обработки сигналов и взаимодействия с трансивером реализована на базе однокристальной системы (SoC) — микроконтроллера ESP8266.
 
 ---
 
-## ⚖️ 4. ЮРИДИЧЕСКИЙ ДИСКЛЕЙМЕР (В СООТВЕТСТВИИ С ЗАКОНОДАТЕЛЬСТВОМ РЕСПУБЛИКИ БЕЛАРУСЬ)
+## □ 4. ЮРИДИЧЕСКИЙ ДИСКЛЕЙМЕР (В СООТВЕТСТВИИ С ЗАКОНОДАТЕЛЬСТВОМ РЕСПУБЛИКИ БЕЛАРУСЬ)
 
 **ВАЖНОЕ УВЕДОМЛЕНИЕ:**
 
@@ -67,20 +67,32 @@
 
 ---
 
-## 📄 Лицензионное уведомление
+## ▣ 5. Лицензионное уведомление
 
 ESP-HAC31 is a tool for cyber offensive and red team operations, distributed under the terms of the Affero General Public License (AGPL). It is intended for legal and authorized security testing purposes only. Use of this software for any malicious or unauthorized activities is strictly prohibited. By downloading, installing, or using ESP-HAC31, you agree to comply with all applicable laws and regulations. This software is provided free of charge, and we do not accept payments for copies or modifications. The developers assume no liability for any misuse of the software. Use at your own risk.
 
 ---
 
-## 📊 Статистика репозитория
+## ▤ Статистика репозитория
 
-![Stars](https://img.shields.io/github/stars/serega-31/ESP-HAC31?style=flat-square)
-![Watchers](https://img.shields.io/github/watchers/serega-31/ESP-HAC31?style=flat-square)
-![Forks](https://img.shields.io/github/forks/serega-31/ESP-HAC31?style=flat-square)
-![Contributors](https://img.shields.io/github/contributors/serega-31/ESP-HAC31?style=flat-square)
-![C++](https://img.shields.io/badge/C%2B%2B-100%25-blue?style=flat-square)
+| Показатель | Значение |
+|------------|----------|
+| ☆ Звёзды | 1 |
+| 👁 Наблюдающие | 0 |
+| ⎔ Форки | 0 |
+| ◼ Язык | C++ 100.0% |
+| ◻ Участники | 1 |
 
 ---
 
-**Автор:** [@serega-31](https://github.com/serega-31)
+## ▥ Релизы
+
+No releases published  
+Create a new release
+
+---
+
+## ▦ Пакеты
+
+No packages published  
+Publish your first package
