@@ -78,8 +78,6 @@ ESP-HAC31 is a tool for cyber offensive and red team operations, distributed und
 | Показатель | Значение |
 |------------|----------|
 | Звёзды | 1 |
-| Наблюдающие | 0 |
-| Форки | 0 |
 | Язык | C++ 100.0% |
 | Участники | 1 |
 
